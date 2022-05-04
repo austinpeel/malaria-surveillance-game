@@ -1,0 +1,50 @@
+.unity-app {
+  color: rgb(150, 150, 150);
+  padding: 10px;
+  margin-bottom: 1rem;
+  letter-spacing: 0.5px;
+  line-height: 1.5rem;
+  /* background-color: rgb(255, 204, 184); */
+}
+
+.description {
+  text-align: left;
+  margin: auto;
+  /* background-color: rgb(140, 255, 151); */
+}
+
+#not-loading {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  height: 20px;
+  text-align: left;
+  /* background-color: lightsalmon; */
+}
+
+#loading {
+  z-index: 99;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  height: 20px;
+  text-align: left;
+  color: rgb(255, 255, 255);
+  /* background-color: rgb(255, 0, 0); */
+}
+
+.unity-player {
+  margin: auto;
+  border: 0px solid rgb(233, 233, 233);
+  /* max-height: 1000px; */
+  /* padding: 10px;
+  background-color: magenta; */
+}
+
+.unity-player img {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.unity-player img:hover {
+  opacity: 80%;
+}

@@ -1,0 +1,10 @@
+.footer {
+  margin: auto;
+  padding: 0px;
+  color: white;
+  /* background-color: rgb(125, 125, 125); */
+}
+
+.footer a {
+  color: #5BABF1;
+}

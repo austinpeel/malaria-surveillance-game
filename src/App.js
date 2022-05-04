@@ -1,23 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
+import UnityApp from './components/UnityApp/UnityApp';
+import imagePlaceholder from './images/ClickToLoad.png';
+
+const appData = {
+  name: '',
+  json: 'UnityGame/Build/UnityGame.json',
+  unityLoader: 'UnityGame/Build/UnityLoader.js',
+  description:
+    'This is a game about the effectiveness of information regarding pregnant women in controlling malaria outbreaks.',
+  image: imagePlaceholder,
+};
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='container'>
+      <Header />
+      <UnityApp {...appData} />
+      <Footer />
     </div>
   );
 }
