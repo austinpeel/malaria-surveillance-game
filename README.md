@@ -8,7 +8,9 @@ This is a browser-based educational game simulating the control of malaria outbr
 - Austin Peel, code implementation
 - Justin Burks, visual design
 
-![](/images/gameplay.mp4)
+## Gameplay
+
+![](/images/gameplay.gif)
 
 ## Tasks
 
