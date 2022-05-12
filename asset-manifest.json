@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.93f2d6d1.css",
-    "main.js": "/static/js/main.5c49c3d0.js",
-    "static/js/787.eece08a0.chunk.js": "/static/js/787.eece08a0.chunk.js",
-    "static/media/ClickToLoad.png": "/static/media/ClickToLoad.76f14dfdaf017bce0409.png",
-    "index.html": "/index.html",
-    "main.93f2d6d1.css.map": "/static/css/main.93f2d6d1.css.map",
-    "main.5c49c3d0.js.map": "/static/js/main.5c49c3d0.js.map",
-    "787.eece08a0.chunk.js.map": "/static/js/787.eece08a0.chunk.js.map"
+    "main.css": "/malaria-surveillance-game/static/css/main.93f2d6d1.css",
+    "main.js": "/malaria-surveillance-game/static/js/main.5fa6ffbb.js",
+    "static/js/787.eece08a0.chunk.js": "/malaria-surveillance-game/static/js/787.eece08a0.chunk.js",
+    "static/media/ClickToLoad.png": "/malaria-surveillance-game/static/media/ClickToLoad.76f14dfdaf017bce0409.png",
+    "index.html": "/malaria-surveillance-game/index.html",
+    "main.93f2d6d1.css.map": "/malaria-surveillance-game/static/css/main.93f2d6d1.css.map",
+    "main.5fa6ffbb.js.map": "/malaria-surveillance-game/static/js/main.5fa6ffbb.js.map",
+    "787.eece08a0.chunk.js.map": "/malaria-surveillance-game/static/js/787.eece08a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93f2d6d1.css",
-    "static/js/main.5c49c3d0.js"
+    "static/js/main.5fa6ffbb.js"
   ]
 }
