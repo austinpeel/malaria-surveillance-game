@@ -1,6 +1,9 @@
 # Malaria Surveillance Game
 
-This is a browser-based educational game simulating the control of malaria outbreaks using data from pregnant women.
+This is an educational game simulating the control of malaria outbreaks using data from pregnant women.\
+_The project is still very much under development._
+
+Click [here](https://austinpeel.github.io/malaria-surveillance-game/) to play.
 
 ## Project partners
 
